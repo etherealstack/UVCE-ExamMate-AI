@@ -1,0 +1,16 @@
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain
+groq
+langchain-core
+pydantic
+tiktoken
+langchain-groq
+scikit-learn
+pypdf
+pymupdf
+rapidocr-onnxruntime
+rank-bm25
+networkx
